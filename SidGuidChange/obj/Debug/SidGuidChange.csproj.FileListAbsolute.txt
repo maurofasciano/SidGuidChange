@@ -1,0 +1,7 @@
+C:\Users\Faggiano\source\repos\SidGuidChange\SidGuidChange\bin\Debug\SidGuidChange.exe.config
+C:\Users\Faggiano\source\repos\SidGuidChange\SidGuidChange\bin\Debug\SidGuidChange.exe
+C:\Users\Faggiano\source\repos\SidGuidChange\SidGuidChange\bin\Debug\SidGuidChange.pdb
+C:\Users\Faggiano\source\repos\SidGuidChange\SidGuidChange\obj\Debug\SidGuidChange.csprojAssemblyReference.cache
+C:\Users\Faggiano\source\repos\SidGuidChange\SidGuidChange\obj\Debug\SidGuidChange.csproj.CoreCompileInputs.cache
+C:\Users\Faggiano\source\repos\SidGuidChange\SidGuidChange\obj\Debug\SidGuidChange.exe
+C:\Users\Faggiano\source\repos\SidGuidChange\SidGuidChange\obj\Debug\SidGuidChange.pdb
